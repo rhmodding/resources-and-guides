@@ -60,6 +60,9 @@ Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox"
 ### [EndlessPatch, newest release page](https://github.com/patataofcourse/EndlessPatch/releases/latest)
 Patch that allows you to save conditional variables to endless game high scores. Useful for custom endless games!
 
+### [Rhythm Heaven Modding Chart](https://docs.google.com/spreadsheets/d/1j-eAUBCojDQ8_qMJu83AK3MguMJpKu5go6_kYWWY5xY/edit?usp=sharing)
+Chart showing the games' internal data such as cellanims, effects, layouts, audio files, and more.
+
 ## Fever
 
 ### [MF5K's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
