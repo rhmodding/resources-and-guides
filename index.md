@@ -74,7 +74,7 @@ Documents the basics of modding Fever on Dolphin.
 ## DS / Gold
 
 ### [141sh1's docs](https://drive.google.com/drive/folders/1uti7OpgrSjkWz_Z86pUow2IkqjO4nokg?usp=sharing)
-Documentation of Rhythm Heaven beatmap bytecode.
+Documentation of Rhythm Heaven Tickflow bytecode.
 
 ### [Custom Sprites Tutorial](https://www.youtube.com/watch?v=PKNJq4eUouc)
 Video tutorial on how to edit sprites using Tinke.
