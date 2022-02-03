@@ -1,4 +1,4 @@
-# Rhythm Heaven Modding - Resources and Guides
+# RHModding - Resources and Guides
 
 ## All games
 
