@@ -45,7 +45,7 @@ Official documentation for Tickompiler and the Tickflow "language".
 ### [MF5K's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
 Has commands and scenes not present in the official documentation.
 
-### [Rhythm Game Tickflow Chart](https://docs.google.com/spreadsheets/d/1tClD5CbSNmxnj7PQl_7trEYf1ddXBMmuEAsvwd3eDTM)
+### [RHM Modding Chart](https://docs.google.com/spreadsheets/d/1j-eAUBCojDQ8_qMJu83AK3MguMJpKu5go6_kYWWY5xY/edit?usp=sharing)
 Miscellaneous information on the games' internal data (tempo, audio file, etc.)
 
 ### [Rhythm Heaven Megamix Sub List](https://docs.google.com/document/d/1j2CEKh8WxZTt6SnirEiIedAAw6sgK0BdmNomUzvFPmk/edit?usp=sharing)
