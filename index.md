@@ -64,7 +64,7 @@ Patch that allows you to save conditional variables to endless game high scores.
 
 ### [MF5K's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
 Documentation of Rhythm Heaven Fever Tickflow bytecode.
-d
+
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
 Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
 
