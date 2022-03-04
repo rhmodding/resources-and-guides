@@ -45,7 +45,7 @@ Official documentation for Tickompiler and the Tickflow "language".
 ### [MF5K's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
 Has commands and scenes not present in the official documentation.
 
-### [Rhythm Game Tickflow Chart](https://docs.google.com/spreadsheets/d/1tClD5CbSNmxnj7PQl_7trEYf1ddXBMmuEAsvwd3eDTM)
+### [RHM Modding Chart](https://docs.google.com/spreadsheets/d/1j-eAUBCojDQ8_qMJu83AK3MguMJpKu5go6_kYWWY5xY/edit?usp=sharing)
 Miscellaneous information on the games' internal data (tempo, audio file, etc.)
 
 ### [Rhythm Heaven Megamix Sub List](https://docs.google.com/document/d/1j2CEKh8WxZTt6SnirEiIedAAw6sgK0BdmNomUzvFPmk/edit?usp=sharing)
@@ -60,14 +60,11 @@ Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox"
 ### [EndlessPatch, newest release page](https://github.com/patataofcourse/EndlessPatch/releases/latest)
 Patch that allows you to save conditional variables to endless game high scores. Useful for custom endless games!
 
-### [Rhythm Heaven Modding Chart](https://docs.google.com/spreadsheets/d/1j-eAUBCojDQ8_qMJu83AK3MguMJpKu5go6_kYWWY5xY/edit?usp=sharing)
-Chart showing the games' internal data such as cellanims, effects, layouts, audio files, and more.
-
 ## Fever
 
 ### [MF5K's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
 Documentation of Rhythm Heaven Fever Tickflow bytecode.
-
+d
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
 Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
 
