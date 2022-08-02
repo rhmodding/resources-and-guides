@@ -33,9 +33,6 @@ scoop bucket add games
 scoop install tickompiler
 ```
 
-### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
-Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
-
 ### [Tickflow Syntax for Sublime Text](https://github.com/optiMiskit/tickflow-syntax-highlighting-for-sublime)
 Improved syntax highlighting for Tickflow via Sublime Text.
 
@@ -44,6 +41,15 @@ Official documentation for Tickompiler and the Tickflow "language".
 
 ### [MF5K's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
 Has commands and scenes not present in the official documentation.
+
+### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
+Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
+
+### [EndlessPatch, newest release page](https://github.com/patataofcourse/EndlessPatch/releases/latest)
+Patch that allows you to save conditional variables to endless game high scores. Useful for custom endless games!
+
+### [QuickLaunch Patch, newest release page](https://github.com/viviancherry9/quick-launch-patch/releases/latest)
+Patch that instantly loads the museum upon starting the game, making testing mods quicker and easier!
 
 ### [RHM Modding Chart](https://docs.google.com/spreadsheets/d/1j-eAUBCojDQ8_qMJu83AK3MguMJpKu5go6_kYWWY5xY/edit?usp=sharing)
 Miscellaneous information on the games' internal data (tempo, audio file, etc.)
@@ -57,10 +63,10 @@ Paste containing a list of every Megamix sound effect and their hex index codes.
 ### [EHG's Remix Templates](https://drive.google.com/drive/folders/1G5k3l9rwrpj0GvEjEno0hMP9vRN20Lv8?usp=sharing)
 Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands.
 
-### [EndlessPatch, newest release page](https://github.com/patataofcourse/EndlessPatch/releases/latest)
-Patch that allows you to save conditional variables to endless game high scores. Useful for custom endless games!
-
 ## Fever
+
+### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
+Documents the basics of modding Fever on Dolphin.
 
 ### [MF5K's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
 Documentation of Rhythm Heaven Fever Tickflow bytecode.
@@ -68,12 +74,9 @@ Documentation of Rhythm Heaven Fever Tickflow bytecode.
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
 Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
 
-### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
-Documents the basics of modding Fever on Dolphin.
-
 ## DS / Gold
 
-### [141sh1's docs](https://drive.google.com/drive/folders/1uti7OpgrSjkWz_Z86pUow2IkqjO4nokg?usp=sharing)
+### [EstexNT's docs](https://drive.google.com/drive/folders/1uti7OpgrSjkWz_Z86pUow2IkqjO4nokg?usp=sharing)
 Documentation of Rhythm Heaven Tickflow bytecode.
 
 ### [Custom Sprites Tutorial](https://www.youtube.com/watch?v=PKNJq4eUouc)
