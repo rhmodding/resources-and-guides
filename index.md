@@ -51,8 +51,14 @@ Patch that allows you to save conditional variables to endless game high scores.
 ### [QuickLaunch Patch, newest release page](https://github.com/viviancherry9/quick-launch-patch/releases/latest)
 Patch that instantly loads the museum upon starting the game, making testing mods quicker and easier!
 
+### [Rupert Tools](https://github.com/rhmodding/rupert-tools)
+Repository of Python tools for Rhythm Heaven Megamix. Helpful for making smaller miscellaneous edits.
+
 ### [RHM Modding Chart](https://docs.google.com/spreadsheets/d/1j-eAUBCojDQ8_qMJu83AK3MguMJpKu5go6_kYWWY5xY/edit?usp=sharing)
 Miscellaneous information on the games' internal data (tempo, audio file, etc.)
+
+### [Pre-Made Tickflow Subs](https://drive.google.com/drive/folders/1Ox8udQI89XlJY69RepUfzLSi5YawMM3F?usp=share_link)
+Easy-to-use Tickflow subs that you can include in your cue edits, compiled by TheAlternateDoctor.
 
 ### [Rhythm Heaven Megamix Sub List](https://docs.google.com/document/d/1j2CEKh8WxZTt6SnirEiIedAAw6sgK0BdmNomUzvFPmk/edit?usp=sharing)
 List of global subroutines for Rhythm Heaven Megamix.
