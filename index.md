@@ -69,7 +69,7 @@ List of global subroutines for Rhythm Heaven Megamix.
 ### [SFX Pastebin](https://pastebin.com/tK1Gga8T)
 Paste containing a list of every Megamix sound effect and their hex index codes. Useful for SFX editing!
 
-### [Doc's Remix Templates](https://drive.google.com/drive/folders/1G5k3l9rwrpj0GvEjEno0hMP9vRN20Lv8?usp=sharing)
+### [Doc's Remix Templates](https://drive.google.com/drive/u/1/folders/10wUl-s8o3yaQd8vQmUVNvjtdiQtMrewd)
 Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands, based on Hax's old templates.
 
 ## Fever
