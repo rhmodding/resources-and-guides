@@ -19,6 +19,9 @@ Documents the basics of modding Megamix.
 ### [How to cue mod Rhythm Heaven Megamix without hardware](https://docs.google.com/document/d/1mgOLuh2a0SLVNQYjxSVR8O8zkWz83eUgotgjY67ZaAc/edit?usp=sharing)
 Goes through the basics of modding Megamix on Citra.
 
+### [Guide to the Tickflow Template](https://docs.google.com/document/d/1njBPpXbBdqtcXCZxIqeS7xSVlbWxOuBX9VLXWiDDRHY)
+Walks you through using the Tickflow Template, and teaches some base tickflow concepts.
+
 ### [RHMPatch, newest release page](https://github.com/rhmodding/RHMPatch/releases/latest)
 Used to play Tickflow mods in-game.
 
@@ -66,8 +69,8 @@ List of global subroutines for Rhythm Heaven Megamix.
 ### [SFX Pastebin](https://pastebin.com/tK1Gga8T)
 Paste containing a list of every Megamix sound effect and their hex index codes. Useful for SFX editing!
 
-### [EHG's Remix Templates](https://drive.google.com/drive/folders/1G5k3l9rwrpj0GvEjEno0hMP9vRN20Lv8?usp=sharing)
-Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands.
+### [Doc's Remix Templates](https://drive.google.com/drive/folders/1G5k3l9rwrpj0GvEjEno0hMP9vRN20Lv8?usp=sharing)
+Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands, based on Hax's old templates.
 
 ## Fever
 
