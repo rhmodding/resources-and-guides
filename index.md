@@ -1,5 +1,3 @@
-# RHModding - Resources and Guides
-
 ## All games
 
 ### [RHModding Discord server](https://discord.com/invite/ps4rq53)
