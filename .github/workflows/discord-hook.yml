@@ -19,4 +19,4 @@ jobs:
           python3 md_to_payload.py
       - name: Curl the patch
         run: |
-          curl --request PATCH --data "$(cat payload.json)" ${{ secrets.DISCORD_WEBHOOK_URL }}/messages/${{ secrets.DISCORD_MESSAGE_ID }}
+          curl --request PATCH --json "$(cat payload.json)" ${{ secrets.DISCORD_WEBHOOK_URL }}/messages/${{ secrets.DISCORD_MESSAGE_ID }}
