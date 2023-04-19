@@ -2,6 +2,10 @@ import datetime
 import json
 import re
 
+#TODO: make the color one of several attributes, the others being:
+#   - "no_site" - don't skip this even if it's commented
+#   - "no_discord" - skip this (takes priority over no_site)
+
 mdf = open("index.md", "r")
 md = mdf.read()
 md = md.replace("<br>", "\n")
@@ -18,7 +22,6 @@ for section in md_sections:
     items = re.split("^\#\#\#", contents, flags=re.MULTILINE)[1:]
     fields = []
     for item in items:
-        #TODO: handle links
         item_title = item.split("\n")[0].strip()
         item_title, link = re.match("\[(.*)\]\((.*)\)", item_title).groups()
 
