@@ -1,4 +1,5 @@
 ## All games
+<!-- ad29e6 -->
 
 ### [RHModding Discord server](https://discord.com/invite/ps4rq53)
 The primary modding server for anything Rhythm Heaven related.
@@ -10,6 +11,7 @@ Spreadsheet containing links to numerous different Rhythm Heaven mods - primaril
 Useful for playtesting!
 
 ## Megamix
+<!-- eb2e3e -->
 
 ### [Megamix Beginner's Modding Guide](https://docs.google.com/document/d/1FvCB0bL-Zt17wuOThXy-P8lObFSMogl_kftN87PyLaI/edit)
 Documents the basics of modding Megamix.
@@ -25,7 +27,7 @@ Used to play Tickflow mods in-game.
 
 ### [Tickompiler, newest release page + Scoop](https://github.com/rhmodding/Tickompiler/releases/latest)
 Compiles Tickflow into a format that can be understood by RHMPatch. <br>
-Download tickompiler.jar and put it in a folder you'll feel comfortable working in.
+Download `tickompiler.jar` and put it in a folder you'll feel comfortable working in.
 
 Tickompiler is also available via the [Scoop package manager](https://scoop.sh/). <br>
 Install Tickompiler as a global command by running:
@@ -71,6 +73,7 @@ Paste containing a list of every Megamix sound effect and their hex index codes.
 Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands, based on Hax's old templates.
 
 ## Fever
+<!-- 3082ee -->
 
 ### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
 Documents the basics of modding Fever on Dolphin.
@@ -82,6 +85,7 @@ Documentation of Rhythm Heaven Fever Tickflow bytecode.
 Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
 
 ## DS / Gold
+<!-- 45ce30 -->
 
 ### [EstexNT's docs](https://drive.google.com/drive/folders/1O2ds6YdaYgNUIdqELE2NJ5Wv7067oRYm?usp=share_link)
 Documentation of Rhythm Heaven Tickflow bytecode.
@@ -91,9 +95,10 @@ Video tutorial on how to edit sprites using Tinke.
 
 
 ## Tengoku ("Silver")
+<!-- f8d733 -->
 
 ### [Clean room decompilation of Rhythm Tengoku](https://github.com/arthurtilly/rhythmtengoku)
 Brought to you by some clever folks.
 
 ### [Freeform's Tengoku docs](https://drive.google.com/drive/folders/1FBKMGT3Wts4oV8vnTKyXw34rdNg5GoOm?usp=sharing)
-Documentation of Rhythm Tengoku BeatScript bytecode.
+Documentation of Rhythm Tengoku Beatscript bytecode.
