@@ -32,5 +32,7 @@ for section in md_sections:
 if len(embeds) > 10:
     raise Exception("Cannot have more than 10 embeds!")
 
-json.dump({"embeds": embeds}, pld)
+payload = json.dumps({"embeds": embeds})
+print(payload)
+pld.write(payload)
 pld.close()

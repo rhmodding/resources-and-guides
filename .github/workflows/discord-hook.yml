@@ -1,8 +1,8 @@
 name: Deploy to Discord webhook
 
 on:
-  # push:
-  #   branches: ["main"]
+  push:
+    branches: ["main"]
 
   workflow_dispatch:
 
