@@ -31,11 +31,11 @@ for section in md_sections:
 
         item_title, link = re.match("\[(.*)\]\((.*)\)", item_title).groups()
 
-        item_contents = "\n".join(item.split("\n")[1:]).strip()
+        item_contents = "\n".join(item.split("\n")[1:]).strip().strip("->")
 
         if item_contents.startswith("<!--"):
             item_meta += item_contents.split("\n")[0].strip("<!- ").split(" ")
-            item_contents = "\n".join(item_contents.split("\n")[1:]).strip("-> ")
+            item_contents = "\n".join(item_contents.split("\n")[1:])
 
         item_contents += "\n" + link
 
@@ -47,6 +47,5 @@ if len(embeds) > 10:
     raise Exception("Cannot have more than 10 embeds!")
 
 payload = json.dumps({"embeds": embeds})
-print(payload)
 pld.write(payload)
 pld.close()
