@@ -19,14 +19,25 @@ for section in md_sections:
     color = section.split("\n")[1].strip("<!-> \n\t")
 
     contents = "\n".join(section.split("\n")[2:])
-    items = re.split("^\#\#\#", contents, flags=re.MULTILINE)[1:]
+    items = re.split("^(?:<!--\s+)?\#\#\#", contents, flags=re.MULTILINE)[1:]
     fields = []
     for item in items:
         item_title = item.split("\n")[0].strip()
+        item_meta = []
+
+        if not item_title.startswith("["):
+            item_meta += item_title[:item_title.find("[")].strip().split(" ")
+            item_title = item_title[item_title.find("["):]
+
         item_title, link = re.match("\[(.*)\]\((.*)\)", item_title).groups()
 
         item_contents = "\n".join(item.split("\n")[1:]).strip() + "\n" + link
-        fields.append({"name":item_title, "value":item_contents})
+        if item_contents.startswith("<!--"):
+            item_meta += item_contents.split("\n")[0].strip("<!--> ").split(" ")
+            item_contents = "\n".join(item_contents.split("\n")[1:])
+
+        if not ("no-discord" in item_meta) and not ("no-display" in item_meta):
+            fields.append({"name":item_title, "value":item_contents})
     embeds.append({"title": title, "color":int(color, 16), "fields":fields})
 
 if len(embeds) > 10:
