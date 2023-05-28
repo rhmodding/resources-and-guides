@@ -64,6 +64,6 @@ for section in md_sections:
 # if we ever run out of space in an embed, or 10 RH games get released, we'll worry about this
 if len(embeds) > 10:
     raise Exception("Cannot have more than 10 embeds!")
-payload = json.dumps({"embeds": embeds, "contents": header})
+payload = json.dumps({"embeds": embeds, "content": header})
 pld.write(payload)
 pld.close()
