@@ -1,3 +1,5 @@
+Resources by the community to help your way through modding the games. Pick your RH game of choice and have fun modding! 
+
 ## All games
 <!-- ad29e6 -->
 
