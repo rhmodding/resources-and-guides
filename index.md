@@ -40,7 +40,7 @@ Improved syntax highlighting for Tickflow via Sublime Text.
 ### [Tickompiler documentation (Read the Docs)](https://tickompiler.readthedocs.io/en/latest/)
 Official documentation for Tickompiler and the Tickflow "language".
 
-### [MF5K's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
+### [Tox's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
 Has commands and scenes not present in the official documentation.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
@@ -75,7 +75,7 @@ Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox"
 ### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
 Documents the basics of modding Fever on Dolphin.
 
-### [MF5K's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
+### [Tox's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
 Documentation of Rhythm Heaven Fever Tickflow bytecode.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
