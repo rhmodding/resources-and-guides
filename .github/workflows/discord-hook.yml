@@ -1,0 +1,23 @@
+name: Deploy to Discord webhook
+
+on:
+  push:
+    branches: ["main"]
+
+  workflow_dispatch:
+
+jobs:
+  create-msg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+      - name: Build payload
+        run: |
+          python3 md_to_payload.py
+      - name: Curl the patch
+        run: |
+          curl -V
+          curl -X PATCH -H "Content-type: application/json" --data "$(cat payload.json)" ${{ secrets.DISCORD_WEBHOOK_URL }}/messages/${{ secrets.DISCORD_MESSAGE_ID }}
