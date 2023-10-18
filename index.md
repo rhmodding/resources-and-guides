@@ -10,6 +10,10 @@ The primary modding server for anything Rhythm Heaven related.
 <!-- ### [resources-and-guides site](https://rhmodding.github.io/resources-and-guides/)
 An online copy of this channel, for easy access outside the server -->
 
+### [Dforum](https://dforum.org/277545487375007744/)
+<!-- no-discord -->
+Online copies of the Discord server's forums. Download mods from #mod-releases!
+
 ### [Modded Games, Remixes & More](https://docs.google.com/spreadsheets/d/1vuQuHb4mz8swmhbbMvjzruMageOzPnBxDA5hIqqEZvU/edit#gid=0)
 Spreadsheet containing links to numerous different Rhythm Heaven mods - primarily Megamix.
 
