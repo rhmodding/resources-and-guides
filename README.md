@@ -35,6 +35,6 @@ item description
 
 #### How to comment out an item
 ```md
-<-- no-display ### [item name](link to item)
+<!-- no-display ### [item name](link to item)
 item description -->
 ```
