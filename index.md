@@ -97,8 +97,8 @@ Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (
 ## DS / Gold
 <!-- 45ce30 -->
 
-### [EstexNT's docs](https://drive.google.com/drive/folders/1O2ds6YdaYgNUIdqELE2NJ5Wv7067oRYm?usp=share_link)
-Documentation of Rhythm Heaven Tickflow bytecode.
+### [TheAltDoc's docs](https://drive.google.com/drive/folders/1r9Xgks_UII1SPYUGr8fYme8EajWG93bj?usp=drive_link)
+Documentation of Rhythm Heaven Tickflow bytecode. Used to be maintained by EstexNT.
 
 ### [Custom Sprites Tutorial](https://www.youtube.com/watch?v=PKNJq4eUouc)
 Video tutorial on how to edit sprites using Tinke.
