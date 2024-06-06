@@ -45,9 +45,6 @@ Alternatively, Tickompiler is also available via the [Scoop](https://scoop.sh/#/
 scoop bucket add games
 scoop install tickompiler
 ```
-**AUR:**
-```
-```
 
 ### [Tickflow Syntax for Sublime Text](https://github.com/optiMiskit/tickflow-syntax-highlighting-for-sublime)
 Improved syntax highlighting for Tickflow via Sublime Text.
