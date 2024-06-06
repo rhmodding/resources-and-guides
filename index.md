@@ -12,48 +12,51 @@ An online copy of this channel, for easy access outside the server -->
 
 ### [Dforum](https://dforum.org/277545487375007744/)
 <!-- no-discord -->
-Online copies of the Discord server's forums. Download mods from #mod-releases!
+Download from #mod-releases and keep up with #wip-mods without joining the Discord server!
 
 ### [Modded Games, Remixes & More](https://docs.google.com/spreadsheets/d/1vuQuHb4mz8swmhbbMvjzruMageOzPnBxDA5hIqqEZvU/edit#gid=0)
-Spreadsheet containing links to numerous different Rhythm Heaven mods - primarily Megamix.
+Spreadsheet compiling numerous mods from across the series - primarily Megamix.
 
-### [Complete save files for every game, provided by Jornker](https://cdn.discordapp.com/attachments/537455034393427979/900033377204334602/RH_Saves.zip)
-Useful for playtesting!
+### [Complete save files for every game](https://cdn.discordapp.com/attachments/537455034393427979/900033377204334602/RH_Saves.zip)
+Compiled by Jornker. Useful for playtesting!
 
 ## Megamix
 <!-- eb2e3e -->
 
-### [Megamix Beginner's Modding Guide](https://docs.google.com/document/d/1FvCB0bL-Zt17wuOThXy-P8lObFSMogl_kftN87PyLaI/edit)
+### [Beginner's Modding Guide](https://docs.google.com/document/d/1FvCB0bL-Zt17wuOThXy-P8lObFSMogl_kftN87PyLaI/edit)
 Documents the basics of modding Megamix.
 
 ### [How to cue mod Rhythm Heaven Megamix without hardware](https://docs.google.com/document/d/1mgOLuh2a0SLVNQYjxSVR8O8zkWz83eUgotgjY67ZaAc/edit?usp=sharing)
 Goes through the basics of modding Megamix on Citra.
 
 ### [Guide to the Tickflow Template](https://docs.google.com/document/d/1njBPpXbBdqtcXCZxIqeS7xSVlbWxOuBX9VLXWiDDRHY)
-Walks you through using the Tickflow Template, and teaches some base tickflow concepts.
+Walks you through using the Tickflow Template, and teaches some base Tickflow concepts.
 
 ### [RHMPatch, newest release page](https://github.com/rhmodding/RHMPatch/releases/latest)
-Used to play Tickflow mods in-game.
+The good old reliable method for playing Tickflow mods.
 
-### [Tickompiler, newest release page + Scoop](https://github.com/rhmodding/Tickompiler/releases/latest)
+### [Tickompiler, newest release page](https://github.com/rhmodding/Tickompiler/releases/latest)
 Compiles Tickflow into a format that can be understood by RHMPatch. <br>
 Download `tickompiler.jar` and put it in a folder you'll feel comfortable working in.
 
-Tickompiler is also available via the [Scoop package manager](https://scoop.sh/). <br>
-Install Tickompiler as a global command by running:
+Alternatively, Tickompiler is also available via the [Scoop](https://scoop.sh/#/apps?q=tickompiler) and [AUR](https://aur.archlinux.org/packages/tickompiler-bin) package managers. <br>
+**Scoop:**
 ```
 scoop bucket add games
 scoop install tickompiler
+```
+**AUR:**
+```
 ```
 
 ### [Tickflow Syntax for Sublime Text](https://github.com/optiMiskit/tickflow-syntax-highlighting-for-sublime)
 Improved syntax highlighting for Tickflow via Sublime Text.
 
-### [Tickompiler documentation (Read the Docs)](https://tickompiler.readthedocs.io/en/latest/)
-Official documentation for Tickompiler and the Tickflow "language".
-
 ### [Tox's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
-Has commands and scenes not present in the official documentation.
+In-depth up-to-date Tickflow documentation.
+
+### [Tickompiler documentation (Read the Docs)](https://tickompiler.readthedocs.io/en/latest/)
+Legacy docs for both Tickompiler and Tickflow.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
 Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
