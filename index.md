@@ -91,7 +91,7 @@ Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox"
 ### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
 Documents the basics of modding Fever on Dolphin.
 
-### [Tox's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
+### [Tox's Fever docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
 Documentation of Fever's Tickflow bytecode.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
