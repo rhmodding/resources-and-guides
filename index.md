@@ -59,7 +59,7 @@ In-depth up-to-date Tickflow documentation.
 Legacy docs for both Tickompiler and Tickflow.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
-Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
+Animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
 
 ### [EndlessPatch, newest release page](https://github.com/patataofcourse/EndlessPatch/releases/latest)
 Patch that allows you to save conditional variables to endless game high scores. Useful for custom endless games!
@@ -92,26 +92,26 @@ Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox"
 Documents the basics of modding Fever on Dolphin.
 
 ### [Tox's docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
-Documentation of Rhythm Heaven Fever Tickflow bytecode.
+Documentation of Fever's Tickflow bytecode.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
-Animation editor. Allows you to edit animations in the BRCAD (Fever) and BCCAD (Megamix) file format.
+Animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
 
 ## DS / Gold
 <!-- 45ce30 -->
 
 ### [TheAltDoc's docs](https://drive.google.com/drive/folders/1r9Xgks_UII1SPYUGr8fYme8EajWG93bj?usp=drive_link)
-Documentation of Rhythm Heaven Tickflow bytecode. Used to be maintained by EstexNT.
+Documentation of the Tickflow bytecode, formerly maintained by EstexNT.
 
 ### [Custom Sprites Tutorial](https://www.youtube.com/watch?v=PKNJq4eUouc)
-Video tutorial on how to edit sprites using Tinke.
+Video guide on sprite editing with Tinke.
 
 
-## Tengoku ("Silver")
+## Tengoku
 <!-- f8d733 -->
 
 ### [Clean room decompilation of Rhythm Tengoku](https://github.com/arthurtilly/rhythmtengoku)
 Brought to you by some clever folks.
 
 ### [Freeform's Tengoku docs](https://drive.google.com/drive/folders/1FBKMGT3Wts4oV8vnTKyXw34rdNg5GoOm?usp=sharing)
-Documentation of Rhythm Tengoku Beatscript bytecode.
+Documentation of Tengoku's Beatscript bytecode.
