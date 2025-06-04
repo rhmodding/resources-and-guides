@@ -49,9 +49,6 @@ scoop install tickompiler
 ### [Tickflow Syntax for Sublime Text](https://github.com/optiMiskit/tickflow-syntax-highlighting-for-sublime)
 Improved syntax highlighting for Tickflow via Sublime Text.
 
-### [Tox's Megamix docs](https://drive.google.com/drive/folders/1gfrX1GJZhQfz4vR8HyQBV56OqO_rYHGG)
-In-depth up-to-date Tickflow documentation.
-
 ### [Tickompiler documentation (Read the Docs)](https://tickompiler.readthedocs.io/en/latest/)
 Legacy docs for both Tickompiler and Tickflow.
 
@@ -87,9 +84,6 @@ Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox"
 
 ### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
 Documents the basics of modding Fever on Dolphin.
-
-### [Tox's Fever docs](https://drive.google.com/drive/folders/1aIVQIBDLjeVh8Yus2-WyLnykfVULlGHt?usp=sharing)
-Documentation of Fever's Tickflow bytecode.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
 Animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
