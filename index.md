@@ -32,6 +32,9 @@ Goes through the basics of modding Megamix on Citra.
 ### [Guide to the Tickflow Template](https://docs.google.com/document/d/1njBPpXbBdqtcXCZxIqeS7xSVlbWxOuBX9VLXWiDDRHY)
 Walks you through using the Tickflow Template, and teaches some base Tickflow concepts.
 
+### [Megamix documentation archives](https://rhmodding.github.io/rhm-docs-archive/)
+Temporary solution until we get better docs
+
 ### [RHMPatch, newest release page](https://github.com/rhmodding/RHMPatch/releases/latest)
 The good old reliable method for playing Tickflow mods.
 
