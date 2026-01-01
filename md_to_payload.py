@@ -45,7 +45,7 @@ for section in md_sections:
         # detect the markdown link [a](b) format
         item_title, link = re.match("\[(.*)\]\((.*)\)", item_title).groups()
 
-        item_contents = "\n".join(item.split("\n")[1:]).strip().strip("->")
+        item_contents = "\n".join(item.split("\n")[1:]).strip().strip("-> ")
 
         # pre-contents meta parameters (for uncommented items)
         if item_contents.startswith("<!--"):
