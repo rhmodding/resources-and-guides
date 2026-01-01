@@ -3,12 +3,12 @@ Resources by the community to help your way through modding the games. Pick your
 ## All games
 <!-- ad29e6 -->
 
+<!-- ### [resources-and-guides site](https://rhmodding.github.io/resources-and-guides/)
+An online copy of this channel, for easy access outside the server -->
+
 ### [RHModding Discord server](https://discord.com/invite/ps4rq53)
 <!-- no-discord -->
 The primary modding server for anything Rhythm Heaven related.
-
-<!-- ### [resources-and-guides site](https://rhmodding.github.io/resources-and-guides/)
-An online copy of this channel, for easy access outside the server -->
 
 <!-- no-display ### [Dforum](https://dforum.org/277545487375007744/)
 Download from #mod-releases and keep up with #wip-mods without joining the Discord server! -->
