@@ -10,9 +10,8 @@ The primary modding server for anything Rhythm Heaven related.
 <!-- ### [resources-and-guides site](https://rhmodding.github.io/resources-and-guides/)
 An online copy of this channel, for easy access outside the server -->
 
-### [Dforum](https://dforum.org/277545487375007744/)
-<!-- no-discord -->
-Download from #mod-releases and keep up with #wip-mods without joining the Discord server!
+<!-- no-display ### [Dforum](https://dforum.org/277545487375007744/)
+Download from #mod-releases and keep up with #wip-mods without joining the Discord server! -->
 
 ### [Modded Games, Remixes & More](https://docs.google.com/spreadsheets/d/1vuQuHb4mz8swmhbbMvjzruMageOzPnBxDA5hIqqEZvU/edit#gid=0)
 Spreadsheet compiling numerous mods from across the series - primarily Megamix.
@@ -52,8 +51,8 @@ scoop install tickompiler
 ### [Tickflow Syntax for Sublime Text](https://github.com/optiMiskit/tickflow-syntax-highlighting-for-sublime)
 Improved syntax highlighting for Tickflow via Sublime Text.
 
-### [Tickompiler documentation (Read the Docs)](https://tickompiler.readthedocs.io/en/latest/)
-Legacy docs for both Tickompiler and Tickflow.
+### [Doc's Remix Templates](https://drive.google.com/drive/u/1/folders/10wUl-s8o3yaQd8vQmUVNvjtdiQtMrewd)
+Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands, based on Hax's old templates.
 
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
 Animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
@@ -72,15 +71,6 @@ Miscellaneous information on the games' internal data (tempo, audio file, etc.)
 
 ### [Pre-Made Tickflow Subs](https://drive.google.com/drive/folders/1Ox8udQI89XlJY69RepUfzLSi5YawMM3F?usp=share_link)
 Easy-to-use Tickflow subs that you can include in your cue edits, compiled by TheAlternateDoctor.
-
-### [Rhythm Heaven Megamix Sub List](https://docs.google.com/document/d/1j2CEKh8WxZTt6SnirEiIedAAw6sgK0BdmNomUzvFPmk/edit?usp=sharing)
-List of global subroutines for Rhythm Heaven Megamix.
-
-### [SFX Pastebin](https://pastebin.com/tK1Gga8T)
-Paste containing a list of every Megamix sound effect and their hex index codes. Useful for SFX editing!
-
-### [Doc's Remix Templates](https://drive.google.com/drive/u/1/folders/10wUl-s8o3yaQd8vQmUVNvjtdiQtMrewd)
-Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands, based on Hax's old templates.
 
 ## Fever
 <!-- 3082ee -->
