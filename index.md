@@ -34,6 +34,12 @@ Walks you through using the Tickflow Template, and teaches some base Tickflow co
 ### [Megamix documentation archives](https://rhmodding.github.io/rhm-docs-archive/)
 Temporary solution until we get better docs
 
+### [toast, newest release page](https://github.com/rhmodding/toast/releases/latest)
+Modern cellanim editor for Fever and Megamix. Does not fully support Megamix textures.
+
+### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
+Legacy animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
+
 ### [RHMPatch, newest release page](https://github.com/rhmodding/RHMPatch/releases/latest)
 The good old reliable method for playing Tickflow mods.
 
@@ -53,9 +59,6 @@ Improved syntax highlighting for Tickflow via Sublime Text.
 
 ### [Doc's Remix Templates](https://drive.google.com/drive/u/1/folders/10wUl-s8o3yaQd8vQmUVNvjtdiQtMrewd)
 Thoroughly commented examples for a custom remix's tickflow + "Tickflow sandbox" for testing out Tickflow commands, based on Hax's old templates.
-
-### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
-Animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
 
 ### [EndlessPatch, newest release page](https://github.com/patataofcourse/EndlessPatch/releases/latest)
 Patch that allows you to save conditional variables to endless game high scores. Useful for custom endless games!
@@ -78,8 +81,11 @@ Easy-to-use Tickflow subs that you can include in your cue edits, compiled by Th
 ### [Rhythm Heaven Fever Modding Guide](https://docs.google.com/document/d/1J9rgOs5AnBX7eztpS3JLvQU3X7Z4Y7MUO-9st9zaD7c/edit)
 Documents the basics of modding Fever on Dolphin.
 
+### [toast, newest release page](https://github.com/rhmodding/toast/releases/latest)
+Modern cellanim editor for Fever and Megamix.
+
 ### [Bread, newest release page](https://github.com/rhmodding/bread/releases/latest)
-Animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
+Legacy animation editor supporting the BRCAD (Fever) and BCCAD (Megamix) file formats.
 
 ## DS / Gold
 <!-- 45ce30 -->
